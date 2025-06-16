@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>00_Main_Menu.png</file>
+        <file>01_Login.png</file>
+        <file>1st_User_profile.png</file>
+        <file>02_SignUP.png</file>
+        <file>2nd_User_profile.png</file>
+        <file>04_Single_Player(2) (1).png</file>
+        <file>04_Single_Player(2).png</file>
+        <file>05_Multiplayer_WhoisX.png</file>
+        <file>06_Multiplayer_Board.png</file>
+        <file>07_Singleplayer_WhoisX.png</file>
+        <file>App.cpp</file>
+        <file>App.h</file>
+        <file>choose_difficulty.png</file>
+        <file>choosedifficulty.cpp</file>
+        <file>choosedifficulty.h</file>
+        <file>choosedifficulty.ui</file>
+        <file>ChooseMode.png</file>
+        <file>Designer.jpeg</file>
+        <file>Game History - MP.png</file>
+        <file>Game History (1).png</file>
+        <file>Game History.png</file>
+        <file>User profile.png</file>
+        <file>statistics.png</file>
+        <file>Single Player (2).png</file>
+        <file>MultiPlayer.png</file>
+    </qresource>
+</RCC>
